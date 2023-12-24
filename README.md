@@ -1,7 +1,7 @@
 # Devsecops-Project using AWS
 **What is DevSecOps? :** DevSecOps is a set of practices that combines software development (Dev), security (Sec), and IT operations (Ops) with the goal of integrating security measures and processes into the software development lifecycle. The term is a combination of "Development," "Security," and "Operations." DevSecOps aims to address the traditional approach where security is often treated as a separate entity and is added on at the end of the development process.
 
-# Key aspects of DevSecOps include:
+# Key aspects of DevSecOps:
 1. **Integration of Security into DevOps Practices:** DevSecOps emphasizes the need to integrate security practices seamlessly into the development and operations processes. It encourages collaboration and communication between development, security, and operations teams.
 
 2. **Automation:** Automation is a fundamental principle of DevSecOps. By automating security processes and checks, organizations can identify and address vulnerabilities more efficiently and consistently throughout the development lifecycle.
